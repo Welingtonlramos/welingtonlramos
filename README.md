@@ -12,7 +12,7 @@ Eterno estudante de programação, iniciando no mundo front-end.
 ---
 
 <div  class="I N F O R M A Ç Õ E S" >
-    <img height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welingtonlramos&show_icons=true&theme=gotham&count_private=true"/>
+    <img height=100em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welingtonlramos&show_icons=true&theme=gotham&count_private=true"/>
     <img height=200em src="https://github-readme-stats.vercel.app/api?username=Welingtonlramos&show_icons=true&show_icons=true&theme=gotham&count_private=true"/>
  </div>
 
