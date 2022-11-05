@@ -6,7 +6,7 @@ Eu estou criando meu caminho 💖
 
 ---
 
-<div class=" I N F O R M A Ç Õ E S" >
+<div class=" I N F O R M A Ç Õ E S">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welingtonlramos&show_icons=true&theme=gotham&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Welingtonlramos&show_icons=true&show_icons=true&theme=gotham&count_private=true"/>
  </div>
